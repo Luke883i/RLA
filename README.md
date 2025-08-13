@@ -1,6 +1,6 @@
 # Reti Locali di Astrazione (RLA) — Documento Introduttivo Scientifico
+Autore: Gianluca Conte, contegianluca@hotmail.com, https://www.linkedin.com/in/contegianluca/
 
-## Abstract
 Le **Reti Locali di Astrazione** (RLA) costituiscono un quadro teorico e filosofico per modellare sistemi complessi multilivello.  
 Esse integrano due concetti raramente formalizzati congiuntamente: **emergenza** (comparsa di proprietà macro non deducibili) e **indecidibilità** (limiti logico-computazionali intrinseci ai sistemi Turing-like).  
 Il modello fornisce un linguaggio e un insieme di assiomi per analizzare come le informazioni e i vincoli computazionali si trasmettano o si blocchino nel passaggio tra livelli disciplinari.
