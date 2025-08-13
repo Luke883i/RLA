@@ -1,4 +1,4 @@
-# Reti Locali di Astrazione (RLA) — Documento Introduttivo Scientifico
+# Reti Locali di Astrazione (RLA)
 Autore: Gianluca Conte, contegianluca@hotmail.com, https://www.linkedin.com/in/contegianluca/
 
 Le **Reti Locali di Astrazione** (RLA) costituiscono un quadro teorico e filosofico per modellare sistemi complessi multilivello.  
